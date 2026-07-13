@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    //nothing just for modification
+    
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
